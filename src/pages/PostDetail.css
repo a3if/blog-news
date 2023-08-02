@@ -1,0 +1,44 @@
+.blog_info{
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+.blog_info ul{
+    list-style: none;
+    border: 2px solid rgb(202 202 222);
+    font-family: 'Raleway', sans-serif;
+    color: rgb(96, 96, 114);
+    
+    text-align: left;
+    padding:10px 5px;
+    
+}
+
+.blog_info ul li{
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.blog_info ul li span{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.blog_info img{
+    width: 1092px;
+    margin-bottom: 20px;
+    height: 400px;
+}
+
+.blog_info button{
+    color: rgb(96, 96, 114);
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 10px;
+    border: 2px solid rgb(202 202 222);
+    padding: 10px 40px;
+    background-color: rgb(223, 223, 231);
+    cursor: pointer;
+}
